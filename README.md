@@ -1,7 +1,7 @@
 # 😀Quantitative Analysis of "Cuteness" in Modern Manga Characters
 
 Welcome to the official repository for our research on **Quantitative Analysis of "Cuteness" in Modern Manga Characters**.  
-Here, we release our **[pretrained models](https://drive.google.com/drive/folders/1eoN7Mv-rz_bkpkDTh3NRQDdM70zeLGVb?usp=drive_link)** for public use.
+Here, we release our **[pretrained models](https://drive.google.com/drive/folders/1eoN7Mv-rz_bkpkDTh3NRQDdM70zeLGVb?usp=drive_link)**.
 
 ## 🧐Model Information
 
