@@ -12,7 +12,7 @@ Here, we release our **[pretrained models](https://drive.google.com/drive/folder
 ## 🤔Dataset
 
 Our training dataset is sourced from:  
-👉 [Anime Faces Dataset](https://www.kaggle.com/datasets/soumikrakshit/anime-faces)  
+👉 [Anime Faces Dataset](https://www.kaggle.com/datasets/subinium/highresolution-anime-face-dataset-512x512)  
 We extend our gratitude to **Gwern Branwen, Anonymous, and the Danbooru Community** for their open-source contributions. 
 
 Due to copyright restrictions, we are unable to release our **Analysis dataset**.
